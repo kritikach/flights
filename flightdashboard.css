@@ -1,0 +1,20 @@
+.flight-dashboard {
+    background-color: #e6f7ff;
+    padding: 20px;
+  }
+  
+  .flight-status {
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .notification-settings {
+    margin: 20px;
+  }
+  
+  form div {
+    margin: 10px 0;
+  }
+  

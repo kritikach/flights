@@ -1,0 +1,19 @@
+.offers {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .offer-cards {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .offer-card {
+    background-color: #ff6200;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    flex: 1;
+  }
+  
